@@ -193,9 +193,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions about this project, please open an issue or contact:
 
 **Your Name**  
-- Email: your.email@example.com  
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: zarifpious@gmail.com  
+- GitHub: [Plasmaa](https://github.com/Plasmaa)  
+- LinkedIn: [Shaikh Zarif Shahriar](https://www.linkedin.com/in/shaikh-zarif-shahriar-4bb14815a/)
 
 ---
 
